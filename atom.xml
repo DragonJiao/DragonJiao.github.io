@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   <link href="%5Bobject%20Object%5D" rel="hub"/>
   <link href="https://dragonjiao.github.io/"/>
-  <updated>2019-05-26T13:19:04.602Z</updated>
+  <updated>2019-05-26T13:19:04.600Z</updated>
   <id>https://dragonjiao.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://dragonjiao.github.io/2019/04/26/Project/"/>
     <id>https://dragonjiao.github.io/2019/04/26/Project/</id>
     <published>2019-04-26T12:31:43.000Z</published>
-    <updated>2019-05-26T13:19:04.602Z</updated>
+    <updated>2019-05-26T13:19:04.600Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Intended-Projects"><a href="#Intended-Projects" class="headerlink" title="Intended Projects"></a>Intended Projects</h1><h2 id="Hierachical-Attention-for-Speech-Emotion-Recognition"><a href="#Hierachical-Attention-for-Speech-Emotion-Recognition" class="headerlink" title="Hierachical Attention for Speech Emotion Recognition"></a>Hierachical Attention for Speech Emotion Recognition</h2><p><strong>Introduction</strong>: Using hierarchical attention mechanisms at the level of sentences and words to improve the accuracy of speech emotion recognition. This project is supported by National Natural Science Foundation.</p><h2 id="Research-on-Supporting-Theory-and-Innovation-Model-of-Cross-border-Service-for-Healthy-Elders"><a href="#Research-on-Supporting-Theory-and-Innovation-Model-of-Cross-border-Service-for-Healthy-Elders" class="headerlink" title="Research on Supporting Theory and Innovation Model of Cross-border Service for Healthy Elders"></a>Research on Supporting Theory and Innovation Model of Cross-border Service for Healthy Elders</h2><p><strong>Introduction</strong>: In view of the problems existing in the credit information of China’s old-age care industry, in order to establish a sound old-age service credit information system and guarantee the quality of old-age service, the standard of pension service credit standard and the trust mechanism and reputation algorithm based on old-age service are formulated for development. The Health Support + “Integrated Support Platform provides theoretical support for credit assessment and provides a comprehensive solution for the credit problems in the aged care service. The project is supported by the National Key Basic Research Development Program (973 Program).</p>]]></content>
     
@@ -41,7 +41,7 @@
     <link href="https://dragonjiao.github.io/2019/04/26/Research/"/>
     <id>https://dragonjiao.github.io/2019/04/26/Research/</id>
     <published>2019-04-26T12:23:35.000Z</published>
-    <updated>2019-05-26T13:19:22.582Z</updated>
+    <updated>2019-05-26T13:19:22.580Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Selected-Publications"><a href="#Selected-Publications" class="headerlink" title="Selected Publications"></a>Selected Publications</h1><h2 id="2019"><a href="#2019" class="headerlink" title="2019"></a>2019</h2><h1 id="Research-Projects"><a href="#Research-Projects" class="headerlink" title="Research Projects"></a>Research Projects</h1><h2 id="Parallel-Deep-Neural-Network-for-Speech-Emotion-Recognition"><a href="#Parallel-Deep-Neural-Network-for-Speech-Emotion-Recognition" class="headerlink" title="Parallel Deep Neural Network for Speech Emotion Recognition"></a>Parallel Deep Neural Network for Speech Emotion Recognition</h2><p>Previous work for emotion recognition have mostly focused on the extraction of carefully hand-crafted and highly-engineered features. Results from these works have demonstrated the importance of discriminative spatio-temporal features to model the continual evolutions of different emotions. How to learn the effective compositional spatio-temporal dynamics for speech emotion recognition has been a fundamental problem of deep representations, herein denoted as deep spectrum representations. In this work, we expolored the possibility of combining speech sptial and temporal features by leveraging CNN and LSTM with a parallel structure.</p>]]></content>
     
@@ -61,7 +61,7 @@
     <link href="https://dragonjiao.github.io/2019/04/25/News/"/>
     <id>https://dragonjiao.github.io/2019/04/25/News/</id>
     <published>2019-04-25T10:08:24.000Z</published>
-    <updated>2019-08-13T11:04:32.957Z</updated>
+    <updated>2019-08-13T11:04:32.950Z</updated>
     
     <content type="html"><![CDATA[<hr><p><strong>· 08/13/2019</strong> I win national third price for 2019 china university computer contest.<br><strong>· 05/18/2019</strong> I am going to attend 2019 International Workshop on Affective Intelligence in Tianjin.<br> <strong>· 04/20/2019</strong> I volunteer to Google WTM Tianjin 2019.<br> <strong>· 04/18/2019</strong> I won the honor of the Communist Youth League.<br> <strong>· 08/21/2018</strong> I am going to attend IOS Summar Camp which is held by Apple in Nanjing.</p>]]></content>
     
@@ -81,7 +81,7 @@
     <link href="https://dragonjiao.github.io/2019/04/25/About%20me/"/>
     <id>https://dragonjiao.github.io/2019/04/25/About me/</id>
     <published>2019-04-25T09:12:51.000Z</published>
-    <updated>2019-08-13T12:07:09.930Z</updated>
+    <updated>2019-08-13T12:07:09.920Z</updated>
     
     <content type="html"><![CDATA[<hr><p>I am an undergraduate software engineering student at <a href="http://www.tjnu.edu.cn/" target="_blank" rel="noopener">Tianjin Normal University</a>, Tianjin, China.I am a core member of iOS Club and I have attended Apple Summer Camp Nanjing of China, 2018. Additionaly, I am a key member of the <strong>Cognitive and Affective Computing Lab</strong> from Center for Affective Intelligence International Studies at my TJNU, advised by <strong>Prof. Ziping Zhao</strong>.</p><p>Currently participating in the project development of “support theory and innovation model of healthy pension cross-border service”.</p><p>My research at TJNU is about applied machine learning and affective computing. If you are interested, checkout my selected projects and publications at here. I also have a few creative open source application projects, like my unique personal website design. Check out them at here.</p>]]></content>
     
